@@ -1,0 +1,30 @@
+Demonstration of Proposed Features:
+
+The Heart Disease Analysis Dashboard developed using Tableau demonstrates the following key features:
+
+>>>  Interactive Heart Disease Overview:
+
+        Displays total heart disease cases and overall distribution.
+        Provides comparative insights across age groups, gender, and race.
+        Dynamic filters for Age, Gender, and Race enable customized analysis.
+
+>>>  Demographic Analysis:
+
+        Compares heart disease prevalence across different age categories and gender groups.
+        Identifies high-risk demographic segments.
+
+>>> Lifestyle Impact Analysis:
+
+        Visualizes the impact of smoking, alcohol consumption, and physical activity on heart disease.
+        Helps understand how lifestyle behaviors influence cardiovascular health.
+
+>>> Health Status & Risk Group Identification
+
+        Examines general health condition versus heart disease occurrence.
+        Highlights patients suffering from multiple conditions such as stroke, diabetes, and heart disease.
+
+>>> User-Friendly Interactive Filters
+
+        Allows users to apply filters dynamically.
+        Provides real-time updates for better comparative analysis.
+        Ensures smooth navigation and easy interpretation of complex medical data.
